@@ -36,3 +36,40 @@ This app allows users to add, complete, and delete tasks with data stored in **l
 ---
 
 ## 📂 Project Structure
+
+📦 Do-Do List
+
+- ----- 📁 assets
+- ---------- 📁 images
+- ---------- icon.png
+- ---------- checked.png
+- ---------- unchecked.png
+- ---------- preview.png # Add your screenshot here
+- ----- index.html
+- ----- style.css
+- ----- script.js
+- ----- README.md
+
+---
+
+## ⚙️ How to Run the Project
+
+### 1. Clone the repository
+
+```bash
+git clone git@github.com:Codezzoom/To-Do-List.git
+```
+
+```bash
+cd your-repository-name
+```
+
+- run through live server
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+## 👨‍💻 Author
+
+GitHub: https://github.com/codezzoom
