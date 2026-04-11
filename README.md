@@ -20,8 +20,6 @@ This app allows users to add, complete, and delete tasks with data stored in **l
 
 ![To-Do List App Preview](./assets/images/preview.png)
 
-> ⚠️ Make sure to add your screenshot at `assets/images/preview.png`
-
 ---
 
 ## 🛠️ Tech Stack
